@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:47:39 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Apr 26 13:46:05 2022
+# Process ID: 8706
+# Current directory: /home/andy/Downloads/DMA/register-mode-dma/trafficgen_dma/trafficgen_dma.runs/impl_1
+# Command line: vivado -log design_1_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source design_1_wrapper.tcl -notrace
+# Log file: /home/andy/Downloads/DMA/register-mode-dma/trafficgen_dma/trafficgen_dma.runs/impl_1/design_1_wrapper.vdi
+# Journal file: /home/andy/Downloads/DMA/register-mode-dma/trafficgen_dma/trafficgen_dma.runs/impl_1/vivado.jou
+# Running On: andy-MS-7C56, OS: Linux, CPU Frequency: 2200.000 MHz, CPU Physical cores: 12, Host memory: 16695 MB
+#-----------------------------------------------------------
+source design_1_wrapper.tcl -notrace

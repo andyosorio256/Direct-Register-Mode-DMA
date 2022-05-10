@@ -1,0 +1,74 @@
+/*
+
+Xilinx Vitis v2021.2.0 (64-bit) [Major: 2021, Minor: 2]
+SW Build 3363750 on 2021-10-16-13:10:08
+
+Process ID (PID): 8048
+License: Customer
+
+Current time: 	Tue Apr 26 13:45:34 PDT 2022
+Time zone: 	Pacific Standard Time (America/Los_Angeles)
+
+OS: Ubuntu
+OS Version: 5.13.0-39-generic
+OS Architecture: amd64
+Available processors (cores): 12
+
+Display: :0
+Screen size: 1920x1080
+Available screens: 2
+Available disk space: 329 GB
+
+Java version: 	11.0.11 64-bit
+Java home: 	/home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9
+Java executable location: 	/home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/bin/java
+Java initial memory (-Xms): 	64 MB
+Java maximum memory (-Xmx):	 1,024 MB
+
+Java library paths: /home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/javafx-sdk-11.0.2/lib:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu/20:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o:/home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/lib/:/home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/jre11.0.11_9/lib//server:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu/20:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o/Ubuntu:/home/andy/Downloads/Xilinx/Vitis/2021.2/lib/lnx64.o:/home/andy/Downloads/Xilinx/Vitis/2021.2/tps/lnx64/python-3.8.3/lib:/home/andy/Downloads/Xilinx/Vitis/2021.2/aietools/lib/lnx64.o:/home/andy/Downloads/Xilinx/Vivado/2021.2/bin/../lnx64/tools/dot/lib:/home/andy/Downloads/Xilinx/Vitis/2021.2/bin/../lnx64/tools/dot/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+
+Java class paths: /home/andy/Downloads/Xilinx/Vitis/2021.2/eclipse/lnx64.o//plugins/org.eclipse.equinox.launcher_1.5.700.v20200207-2156.jar
+LD_LIBRARY_PATH: /home/andy/Downloads/Xilinx/Vitis
+
+User name: 	andy
+User home directory: /home/andy
+User working directory: /home/andy/Downloads/DMA/register-mode-dma
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /home/andy/Downloads/Xilinx/Vitis
+HDI_APPROOT: /home/andy/Downloads/Xilinx/Vitis/2021.2
+RDI_DATADIR: /home/andy/Downloads/Xilinx/Vitis/2021.2/data
+RDI_BINDIR: /home/andy/Downloads/Xilinx/Vitis/2021.2/bin
+
+Vitis preferences directory: /home/andy/.Xilinx/Vitis/2021.2/
+Vitis workspace directory: /home/andy/Downloads/DMA/register-mode-dma/software
+Vitis workspace log file location: /home/andy/Downloads/DMA/register-mode-dma/software/.metadata/.log
+Engine tmp dir: 	
+
+Xilinx Environment Variables
+----------------------------
+XILINX_DSP: 
+XILINX_HLS: /home/andy/Downloads/Xilinx/Vitis_HLS/2021.2
+XILINX_PLANAHEAD: /home/andy/Downloads/Xilinx/Vitis/2021.2
+XILINX_SDK: /home/andy/Downloads/Xilinx/Vitis/2021.2
+XILINX_VITIS: /home/andy/Downloads/Xilinx/Vitis/2021.2
+XILINX_VIVADO: /home/andy/Downloads/Xilinx/Vivado/2021.2
+XILINX_VIVADO_HLS: /home/andy/Downloads/Xilinx/Vivado/2021.2
+_RDI_DONT_SET_XILINX_AS_PATH: True
+
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+selectButton("Next", "New Application Project (Create a New Application Project)", "NewAppProjectWizard", "Button.NEXT");
+selectTab("Create a new platform from hardware", "New Application Project (Platform)", "NewAppProjectWizard", "CTabItem.CREATE_A_NEW_PLATFORM");
+selectButton("Browse", "New Application Project (Platform)", "NewAppProjectWizard", "Button.BROWSE");
+cancelFileDialog("Create Platform from XSA", "SDXFileDialog", "Button.CANCEL");
+selectButton("Cancel", "New Application Project (Platform)", "NewAppProjectWizard", "Button.CANCEL");
+selectButton("Exit", "Confirm Exit", "MessageDialogWithToggle", "Button.EXIT");
+// Exiting Xilinx Vitis with a status code '0' at 4/26/22, 1:46:27 PM PDT
+// Elapsed time: 00:00:52
+

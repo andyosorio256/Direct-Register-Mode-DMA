@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="dma_host" location="/home/andy/Downloads/DMA/register-mode-dma/software/dma_host" platform="/home/andy/Downloads/Final_Project/Direct-Register-Mode-DMA/software/dma_platform/export/dma_platform/dma_platform.xpfm" platformUID="xilinx:zybo-z7-10::0.0(custom)" systemProject="dma_host_system" sysConfig="dma_platform" runtime="C/C++" cpu="standalone_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="647e5f5d351d88b7cc1e2aad57385ebe">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.94492665">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1638110577" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
